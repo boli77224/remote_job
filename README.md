@@ -7,6 +7,7 @@
 | 远程工作名称 | 链接 |
 |-------------|------|
 | AI工程师 | [链接](https://github.com/boli77224/remote_job) |
+|AI - Large Language Models Engineer|[链接](https://apply.workable.com/itsacheckmate-dot-com/j/97CE9C20A1/)|
 
 ## 贡献指南
 
